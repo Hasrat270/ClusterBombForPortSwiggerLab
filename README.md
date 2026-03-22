@@ -1,6 +1,6 @@
 NOTE:
 
-Change this three thing before running the script.
+Change the following three lines before running the script.
 
 1. url
 2. base_tracking_id
